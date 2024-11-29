@@ -103,6 +103,9 @@
             <mxRectangle width="180" height="119" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="atUEhZ1Hb-aagrPBj2f7-37" value="nro_socio &amp;lt;- nombre_soc (D.F.C)&lt;div&gt;nro_socio &amp;lt;- apellido (D.F.C)&lt;/div&gt;&lt;div&gt;nro_socio &amp;lt;- direccion (D.F.C)&lt;/div&gt;&lt;div&gt;nro_socio &amp;lt;- telefono (D.F.C)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;La tabla socio esta en 3FN porque no hay DFC&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="280" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
